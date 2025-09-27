@@ -2,7 +2,7 @@
 
 ## 💻 Analista de Datos / Científico de Datos en formación continua
 
-Apasionado por convertir datos complejos en información clara y visualizaciones útiles. Experiencia en **Python**, **Jupyter Notebook**, **MySQL**, **Excel**, **Power BI** y profundizando en **Git/GitHub** para gestión de proyectos y colaboración.
+Apasionado por convertir datos complejos en información clara y visualizaciones útiles. Experiencia en **Python**, **Jupyter Notebook**, **MySQL**, **Excel**, **Power BI**, y profundizando en **Git/GitHub** para gestión de proyectos y colaboración.
 
 ---
 
@@ -16,13 +16,30 @@ Desarrollo proyectos de análisis de datos que incluyen:
 
 Todos mis proyectos están disponibles en mi **[portafolio de GitHub](https://github.com/ernes2111)**.
 
+### 🌟 Proyectos Destacados
+- [Análisis de transporte urbano](https://github.com/ernes2111/proyecto1) – Limpieza y análisis de CSV con Python  
+- [Dashboard Power BI](https://github.com/ernes2111/proyecto2) – Visualización de datos en tiempo real  
+- [Automatización de tareas](https://github.com/ernes2111/proyecto3) – Scripts de Python para procesamiento de datos
+
 ---
 
 ## 🛠️ Habilidades
-**Lenguajes:** Python, SQL  
-**Herramientas:** Jupyter Notebook, Excel, Power BI  
-**Control de versiones:** Git, GitHub  
-**Idiomas:** 🇺🇸 Inglés (B2) 🇪🇸 Español (Nativo)
+
+### 🖥️ Lenguajes
+Python, SQL  
+
+### ⚙️ Herramientas
+Jupyter Notebook, Excel, Power BI  
+
+### 🔧 Control de versiones
+Git, GitHub  
+
+### 🌎 Idiomas
+🇺🇸 Inglés (B2) | 🇪🇸 Español (Nativo)
+
+### 📚 Aprendizaje actual
+![Learning Power BI](https://img.shields.io/badge/Learning-Power%20BI-yellow?style=for-the-badge&logo=power-bi&logoColor=white)
+
 ---
 
 ## 📫 Contacto
@@ -45,4 +62,5 @@ Todos mis proyectos están disponibles en mi **[portafolio de GitHub](https://gi
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
