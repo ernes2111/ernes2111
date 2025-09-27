@@ -22,7 +22,7 @@ Todos mis proyectos están disponibles en mi **[portafolio de GitHub](https://gi
 **Lenguajes:** Python, SQL  
 **Herramientas:** Jupyter Notebook, Excel, Power BI  
 **Control de versiones:** Git, GitHub  
-
+**Idiomas:** 🇺🇸 Inglés (B2) 🇪🇸 Español (Nativo)
 ---
 
 ## 📫 Contacto
