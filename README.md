@@ -19,7 +19,7 @@ Todos mis proyectos están disponibles en mi **[portafolio de GitHub](https://gi
 ### 🌟 Proyectos Destacados
 - [Bot de consultas Transporte de Rosario](https://github.com/ernes2111/bot-colectivos-rosario) – Consulta en tiempo real del arribo de colectivos  
 - [Dashboard Jupyter Notebook](https://github.com/ernes2111/analisis-colectivos-rosario) – Filtrado y análisis de frecuencia diaria de colectivos   
-- [Automatización de tareas](https://github.com/ernes2111/proyecto3) – Scripts de Python para procesamiento de datos
+- [Recoleccion de datos de transporte](https://github.com/ernes2111/log-colectivos-rosario) – Script de Python para recopilar datos en .CSV sobre arribo de colectivos cada 5 min.
 
 ---
 
