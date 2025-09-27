@@ -26,10 +26,10 @@ Todos mis proyectos están disponibles en mi **[portafolio de GitHub](https://gi
 ## 🛠️ Habilidades
 
 ### 🖥️ Lenguajes
-Python, SQL  
+Python, SQL, JavaScript, HTML, CSS  
 
 ### ⚙️ Herramientas
-Jupyter Notebook, Excel, Power BI  
+Pycharm, Jupyter Notebook, Notepad++, Excel, Power BI  
 
 ### 🔧 Control de versiones
 Git, GitHub  
