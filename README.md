@@ -38,7 +38,7 @@ Todos mis proyectos están disponibles en mi **[portafolio de GitHub](https://gi
 Python, SQL, JavaScript, HTML, CSS  
 
 ### ⚙️ Herramientas
-Pycharm, Jupyter Notebook, Notepad++, Excel, Power BI  
+PyCharm, Jupyter Notebook, Notepad++, Excel, Power BI  
 
 ### 🔧 Control de versiones
 Git, GitHub  
