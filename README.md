@@ -1,3 +1,12 @@
+<div align="center">
+
+# 🌎 Select Language / Selecciona Idioma  
+
+[![Español](https://img.shields.io/badge/🌐-Español-red?style=for-the-badge)](README.md)
+[![English](https://img.shields.io/badge/🌐-English-blue?style=for-the-badge)](README_EN.md)
+
+</div>
+
 # 👋 ¡Hola! Soy Ernesto
 
 ## 💻 Analista de Datos / Científico de Datos en formación continua
