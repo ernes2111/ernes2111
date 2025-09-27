@@ -17,8 +17,8 @@ Desarrollo proyectos de análisis de datos que incluyen:
 Todos mis proyectos están disponibles en mi **[portafolio de GitHub](https://github.com/ernes2111)**.
 
 ### 🌟 Proyectos Destacados
-- [Bot de consultas Transporte de Rosario](https://github.com/ernes2111/bot-colectivos-rosario) – Consulta en tiempo real de colectivos  
-- [Dashboard Jupyter Notebook](https://github.com/ernes2111/analisis-colectivos-rosario) – Filtrado y analisis de frecuencia diaria de colectivos   
+- [Bot de consultas Transporte de Rosario](https://github.com/ernes2111/bot-colectivos-rosario) – Consulta en tiempo real del arribo de colectivos  
+- [Dashboard Jupyter Notebook](https://github.com/ernes2111/analisis-colectivos-rosario) – Filtrado y análisis de frecuencia diaria de colectivos   
 - [Automatización de tareas](https://github.com/ernes2111/proyecto3) – Scripts de Python para procesamiento de datos
 
 ---
