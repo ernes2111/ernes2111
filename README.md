@@ -44,7 +44,7 @@ PyCharm, Jupyter Notebook, Notepad++, Excel, Power BI
 Git, GitHub  
 
 ### 🌎 Idiomas
-🇺🇸 Inglés (B2) | 🇪🇸 Español (Nativo)
+🇺🇸 Inglés (C1) | 🇪🇸 Español (Nativo)
 
 ### 📚 Aprendizaje actual
 ![Learning Power BI](https://img.shields.io/badge/Learning-Power%20BI-yellow?style=for-the-badge&logo=power-bi&logoColor=white)
